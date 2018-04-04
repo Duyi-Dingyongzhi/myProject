@@ -1,5 +1,6 @@
 div {
     color: red;
     height: 123px;
-    background: lime;
+    width: 100px;
+    height: 100px;
 }
